@@ -1,0 +1,20 @@
+{
+  "_cached_at": "2025-12-05T18:11:57.718151",
+  "data": {
+    "cursor": "",
+    "events": [
+      {
+        "available_on_brokers": false,
+        "category": "Elections",
+        "collateral_return_type": "MECNET",
+        "event_ticker": "KXNYCMAYOR-25NOV04",
+        "mutually_exclusive": true,
+        "series_ticker": "KXNYCMAYOR",
+        "strike_period": "",
+        "sub_title": "2025 NYC mayoral election",
+        "title": "How many NYC boroughs will have a margin of victory over 15% in the Mayoral election?"
+      }
+    ],
+    "milestones": []
+  }
+}
