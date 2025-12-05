@@ -1,0 +1,319 @@
+{
+  "source": "Kalshi Exchange API",
+  "last_updated": "2025-12-05 20:02:13",
+  "note": "Kalshi launched 2024 presidential markets in Oct 2024, so data coverage is shorter than Polymarket",
+  "presidential": {
+    "title": "2024 Presidential Election - Trump",
+    "market_ticker": "PRES-2024-DJT",
+    "total_volume": 197036809,
+    "days_of_data": 34,
+    "daily_data": [
+      {
+        "date": "2024-10-05",
+        "price": 0.5,
+        "high": 0.51,
+        "low": 0.49,
+        "open": 0.49,
+        "daily_volume": 257284,
+        "open_interest": 151640
+      },
+      {
+        "date": "2024-10-06",
+        "price": 0.5,
+        "high": 0.5,
+        "low": 0.49,
+        "open": 0.49,
+        "daily_volume": 19956,
+        "open_interest": 167088
+      },
+      {
+        "date": "2024-10-07",
+        "price": 0.5,
+        "high": 0.5,
+        "low": 0.49,
+        "open": 0.49,
+        "daily_volume": 32093,
+        "open_interest": 171750
+      },
+      {
+        "date": "2024-10-08",
+        "price": 0.5,
+        "high": 0.51,
+        "low": 0.49,
+        "open": 0.5,
+        "daily_volume": 353967,
+        "open_interest": 320170
+      },
+      {
+        "date": "2024-10-09",
+        "price": 0.51,
+        "high": 0.51,
+        "low": 0.49,
+        "open": 0.51,
+        "daily_volume": 324480,
+        "open_interest": 456769
+      },
+      {
+        "date": "2024-10-10",
+        "price": 0.5,
+        "high": 0.51,
+        "low": 0.49,
+        "open": 0.5,
+        "daily_volume": 895596,
+        "open_interest": 989648
+      },
+      {
+        "date": "2024-10-11",
+        "price": 0.53,
+        "high": 0.53,
+        "low": 0.5,
+        "open": 0.5,
+        "daily_volume": 949590,
+        "open_interest": 1367963
+      },
+      {
+        "date": "2024-10-12",
+        "price": 0.53,
+        "high": 0.53,
+        "low": 0.52,
+        "open": 0.53,
+        "daily_volume": 985158,
+        "open_interest": 1890797
+      },
+      {
+        "date": "2024-10-13",
+        "price": 0.54,
+        "high": 0.54,
+        "low": 0.52,
+        "open": 0.53,
+        "daily_volume": 148080,
+        "open_interest": 1974256
+      },
+      {
+        "date": "2024-10-14",
+        "price": 0.54,
+        "high": 0.54,
+        "low": 0.53,
+        "open": 0.54,
+        "daily_volume": 93402,
+        "open_interest": 2005384
+      },
+      {
+        "date": "2024-10-15",
+        "price": 0.55,
+        "high": 0.55,
+        "low": 0.53,
+        "open": 0.54,
+        "daily_volume": 277400,
+        "open_interest": 2250559
+      },
+      {
+        "date": "2024-10-16",
+        "price": 0.57,
+        "high": 0.57,
+        "low": 0.54,
+        "open": 0.55,
+        "daily_volume": 3717812,
+        "open_interest": 3766640
+      },
+      {
+        "date": "2024-10-17",
+        "price": 0.56,
+        "high": 0.58,
+        "low": 0.54,
+        "open": 0.57,
+        "daily_volume": 2689220,
+        "open_interest": 4926161
+      },
+      {
+        "date": "2024-10-18",
+        "price": 0.58,
+        "high": 0.58,
+        "low": 0.55,
+        "open": 0.56,
+        "daily_volume": 3379510,
+        "open_interest": 6773409
+      },
+      {
+        "date": "2024-10-19",
+        "price": 0.58,
+        "high": 0.59,
+        "low": 0.56,
+        "open": 0.58,
+        "daily_volume": 3216683,
+        "open_interest": 8145275
+      },
+      {
+        "date": "2024-10-20",
+        "price": 0.56,
+        "high": 0.59,
+        "low": 0.56,
+        "open": 0.58,
+        "daily_volume": 1023130,
+        "open_interest": 8026446
+      },
+      {
+        "date": "2024-10-21",
+        "price": 0.58,
+        "high": 0.58,
+        "low": 0.56,
+        "open": 0.56,
+        "daily_volume": 1126022,
+        "open_interest": 8633360
+      },
+      {
+        "date": "2024-10-22",
+        "price": 0.61,
+        "high": 0.61,
+        "low": 0.56,
+        "open": 0.58,
+        "daily_volume": 4790141,
+        "open_interest": 10438541
+      },
+      {
+        "date": "2024-10-23",
+        "price": 0.6,
+        "high": 0.61,
+        "low": 0.58,
+        "open": 0.61,
+        "daily_volume": 4360010,
+        "open_interest": 11230733
+      },
+      {
+        "date": "2024-10-24",
+        "price": 0.59,
+        "high": 0.61,
+        "low": 0.56,
+        "open": 0.59,
+        "daily_volume": 3635392,
+        "open_interest": 12099258
+      },
+      {
+        "date": "2024-10-25",
+        "price": 0.62,
+        "high": 0.63,
+        "low": 0.57,
+        "open": 0.59,
+        "daily_volume": 5561760,
+        "open_interest": 14293553
+      },
+      {
+        "date": "2024-10-26",
+        "price": 0.61,
+        "high": 0.63,
+        "low": 0.6,
+        "open": 0.62,
+        "daily_volume": 4728207,
+        "open_interest": 15811972
+      },
+      {
+        "date": "2024-10-27",
+        "price": 0.62,
+        "high": 0.63,
+        "low": 0.6,
+        "open": 0.61,
+        "daily_volume": 1207238,
+        "open_interest": 16729864
+      },
+      {
+        "date": "2024-10-28",
+        "price": 0.63,
+        "high": 0.63,
+        "low": 0.61,
+        "open": 0.62,
+        "daily_volume": 1904280,
+        "open_interest": 17267834
+      },
+      {
+        "date": "2024-10-29",
+        "price": 0.62,
+        "high": 0.63,
+        "low": 0.61,
+        "open": 0.63,
+        "daily_volume": 2790825,
+        "open_interest": 18988359
+      },
+      {
+        "date": "2024-10-30",
+        "price": 0.62,
+        "high": 0.66,
+        "low": 0.61,
+        "open": 0.62,
+        "daily_volume": 7151031,
+        "open_interest": 20957403
+      },
+      {
+        "date": "2024-10-31",
+        "price": 0.59,
+        "high": 0.64,
+        "low": 0.58,
+        "open": 0.62,
+        "daily_volume": 5205974,
+        "open_interest": 24337728
+      },
+      {
+        "date": "2024-11-01",
+        "price": 0.58,
+        "high": 0.62,
+        "low": 0.56,
+        "open": 0.59,
+        "daily_volume": 10604350,
+        "open_interest": 32014024
+      },
+      {
+        "date": "2024-11-02",
+        "price": 0.56,
+        "high": 0.59,
+        "low": 0.53,
+        "open": 0.58,
+        "daily_volume": 10687749,
+        "open_interest": 36775723
+      },
+      {
+        "date": "2024-11-03",
+        "price": 0.49,
+        "high": 0.57,
+        "low": 0.47,
+        "open": 0.56,
+        "daily_volume": 8860634,
+        "open_interest": 39798132
+      },
+      {
+        "date": "2024-11-04",
+        "price": 0.53,
+        "high": 0.53,
+        "low": 0.53,
+        "open": 0.53,
+        "daily_volume": 469,
+        "open_interest": 43714165
+      },
+      {
+        "date": "2024-11-05",
+        "price": 0.57,
+        "high": 0.59,
+        "low": 0.52,
+        "open": 0.53,
+        "daily_volume": 20497706,
+        "open_interest": 58458606
+      },
+      {
+        "date": "2024-11-06",
+        "price": 0.95,
+        "high": 0.98,
+        "low": 0.54,
+        "open": 0.57,
+        "daily_volume": 47705441,
+        "open_interest": 81521368
+      },
+      {
+        "date": "2024-11-07",
+        "price": 0.97,
+        "high": 0.99,
+        "low": 0.93,
+        "open": 0.93,
+        "daily_volume": 37856219,
+        "open_interest": 56092835
+      }
+    ]
+  }
+}

@@ -133,29 +133,30 @@
 <body>
     <div class="container">
         <header>
-            <h1>� Price-Volume Correlation Analysis</h1>
-            <p class="subtitle">2024 Presidential & 2025 NYC Mayor Elections | Polymarket Data</p>
+            <h1>📊 Price-Volume Correlation Analysis</h1>
+            <p class="subtitle">2024 Presidential & 2025 NYC Mayor Elections | Polymarket & Kalshi Data</p>
         </header>
 
         <div class="stats">
             <div class="stat-card">
                 <div class="stat-value">$1.53B</div>
-                <div class="stat-label">Presidential Volume</div>
+                <div class="stat-label">Polymarket Presidential</div>
             </div>
             <div class="stat-card">
-                <div class="stat-value">$143M</div>
-                <div class="stat-label">NYC Mayor Volume</div>
+                <div class="stat-value">$197M</div>
+                <div class="stat-label">Kalshi Presidential</div>
             </div>
             <div class="stat-card">
                 <div class="stat-value">0.609</div>
                 <div class="stat-label">Presidential r</div>
             </div>
             <div class="stat-card">
-                <div class="stat-value">0.855</div>
-                <div class="stat-label">NYC Mayor r</div>
+                <div class="stat-value">0.996</div>
+                <div class="stat-label">Platform r</div>
             </div>
         </div>
 
+        <h2 style="color: #e94560; margin-bottom: 20px; font-size: 1.3rem;">📈 Polymarket Correlation Charts</h2>
         <div class="cards">
             <a href="correlation_1_presidential.html" class="card">
                 <div class="card-icon">🇺🇸</div>
@@ -185,10 +186,36 @@
                 <span class="card-tag">Overview</span>
             </a>
         </div>
+
+        <h2 style="color: #7C4DFF; margin: 40px 0 20px; font-size: 1.3rem;">⚔️ Kalshi vs Polymarket Comparison</h2>
+        <div class="cards">
+            <a href="comparison_5_presidential_platforms.html" class="card">
+                <div class="card-icon">🇺🇸</div>
+                <h3 class="card-title">Presidential: Platform Comparison</h3>
+                <p class="card-desc">Kalshi vs Polymarket Trump prices during Oct-Nov 2024. See how the platforms
+                    diverged.</p>
+                <span class="card-tag" style="background: #7C4DFF;">34 Days</span>
+            </a>
+
+            <a href="comparison_6_scatter_platforms.html" class="card">
+                <div class="card-icon">📊</div>
+                <h3 class="card-title">Platform Correlation</h3>
+                <p class="card-desc">Scatter plot showing how closely Kalshi and Polymarket tracked each other.</p>
+                <span class="card-tag" style="background: #7C4DFF;">r = 0.996</span>
+            </a>
+
+            <a href="comparison_7_volume_platforms.html" class="card">
+                <div class="card-icon">💰</div>
+                <h3 class="card-title">Volume Comparison</h3>
+                <p class="card-desc">Side-by-side daily trading volume between the two platforms.</p>
+                <span class="card-tag" style="background: #7C4DFF;">$197M vs $1.5B</span>
+            </a>
+        </div>
     </div>
 
     <footer>
-        <p>Data: <a href="https://polymarket.com" target="_blank">Polymarket</a> | Built with Plotly.js</p>
+        <p>Data: <a href="https://polymarket.com" target="_blank">Polymarket</a> & <a href="https://kalshi.com"
+                target="_blank">Kalshi</a> | Built with Plotly.js</p>
     </footer>
 </body>
 
